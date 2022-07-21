@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Intern, <a href='https://ltl.mmll.cam.ac.uk/'>University of Cambridge</a>. 
+subtitle: PhD in Computation, Cognition, and Language. 
 
 profile:
   align: right
